@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.tzi-div11 {
+  position: absolute;
+  top: 26px;
+  left: 25px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 201px;
+  height: 86px;
+}
+.tattoo-machine-icon2 {
+  position: absolute;
+  height: 5.71%;
+  width: 9.28%;
+  top: 1.39%;
+  right: 72.46%;
+  bottom: 92.9%;
+  left: 18.26%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ipad-pro-129-1 {
+  position: relative;
+  background-color: var(--color-gold);
+  width: 100%;
+  height: 1366px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-7xl);
+  color: var(--color-black);
+  font-family: var(--font-gotu);
+}

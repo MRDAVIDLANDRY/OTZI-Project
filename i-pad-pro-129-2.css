@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.tzi-div9 {
+  position: absolute;
+  top: -0.16px;
+  left: 982.24px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 201px;
+  height: 86px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.ipad-pro-129-2 {
+  position: relative;
+  background-color: var(--color-tan-100);
+  width: 100%;
+  height: 1366px;
+  overflow: hidden;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  text-align: center;
+  font-size: var(--font-size-7xl);
+  color: var(--color-black);
+  font-family: var(--font-gotu);
+}

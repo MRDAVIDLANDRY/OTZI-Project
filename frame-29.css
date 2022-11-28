@@ -1,0 +1,239 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.slate-texture-copy-10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 2917px;
+  object-fit: cover;
+}
+.unsplashsyto3xs06fu-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 603.24px;
+  height: 722.53px;
+  mix-blend-mode: soft-light;
+}
+.icons {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+  display: none;
+}
+.button-div1 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+}
+.component-3-div {
+  position: absolute;
+  top: 533px;
+  left: 309px;
+  border-radius: 6px;
+  background-color: var(--color-fuchsia);
+  width: 206.22px;
+  height: 37.95px;
+  display: flex;
+  flex-direction: row;
+  padding: 14px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+  opacity: 0.7;
+  cursor: pointer;
+  color: var(--white);
+  font-family: var(--font-alfa-slab-one);
+}
+.age-div,
+.how-many-tattoos-do-you-have,
+.name-div {
+  position: absolute;
+  top: 357px;
+  left: 379px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 91.79px;
+  height: 22.79px;
+}
+.age-div,
+.how-many-tattoos-do-you-have {
+  top: 397px;
+  left: 396px;
+  width: 55.17px;
+  height: 23.1px;
+}
+.how-many-tattoos-do-you-have {
+  top: 445.53px;
+  left: 258.24px;
+  width: 325px;
+  height: 22px;
+}
+.group-div3 {
+  position: absolute;
+  top: 0;
+  left: 301px;
+  width: 603.24px;
+  height: 722.53px;
+  font-size: var(--font-size-base);
+  color: var(--color-fuchsia);
+  font-family: var(--font-poppins);
+}
+.cookie-preferences-div,
+.help-div1,
+.privacy-div,
+.terms-of-use {
+  position: absolute;
+  top: 610px;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 111px;
+  height: 62px;
+}
+.cookie-preferences-div,
+.help-div1,
+.privacy-div {
+  left: 148px;
+  width: 65px;
+}
+.cookie-preferences-div,
+.help-div1 {
+  left: 264px;
+  width: 42px;
+}
+.cookie-preferences-div {
+  left: 342px;
+  width: 147px;
+}
+.line-div10,
+.line-div11,
+.line-div12 {
+  position: absolute;
+  top: 471px;
+  left: 569px;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 312px;
+  height: 2px;
+}
+.line-div11,
+.line-div12 {
+  top: 421px;
+}
+.line-div12 {
+  top: 381px;
+}
+.group-div2 {
+  position: absolute;
+  top: 20px;
+  left: 30px;
+  width: 904.24px;
+  height: 722.53px;
+}
+.a-little-about {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.a-little-about-container {
+  line-break: anywhere;
+  width: 100%;
+}
+.a-little-about-you,
+.tzi-div2 {
+  position: absolute;
+  top: 207px;
+  left: 849px;
+  font-size: var(--font-size-xl);
+  display: flex;
+  font-family: var(--font-rambla);
+  color: var(--color-black);
+  align-items: center;
+  width: 509px;
+  height: 102px;
+}
+.tzi-div2 {
+  top: 144px;
+  left: 993px;
+  font-size: var(--font-size-7xl);
+  line-height: 24px;
+  font-family: var(--font-gotu);
+  justify-content: center;
+  width: 201px;
+  height: 89px;
+}
+.rectangle-icon3 {
+  position: absolute;
+  top: 38px;
+  left: 30px;
+  width: 492px;
+  height: 581px;
+  object-fit: cover;
+}
+.fun-fact-tzi {
+  letter-spacing: 5px;
+}
+.blank-line-span {
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.be-like {
+  color: var(--color-purple);
+}
+.tzi-span {
+  font-size: var(--font-size-5xl);
+}
+.tsi-span {
+  font-size: var(--font-size-xl);
+}
+.tzi-tsi-span1 {
+  font-family: var(--font-gotu);
+}
+.be-like-tzi-tsi {
+  margin: 0;
+}
+.fun-fact-tzi-was-the-owner-o {
+  position: absolute;
+  top: 48px;
+  left: 562px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  width: 367px;
+  height: 306px;
+  font-size: var(--font-size-lg);
+}
+.frame-div34 {
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gold);
+  border: 5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 969px;
+  height: 767px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--white);
+  font-family: var(--font-alfa-slab-one);
+}

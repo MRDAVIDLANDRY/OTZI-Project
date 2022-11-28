@@ -1,0 +1,62 @@
+:root {
+  /* fonts */
+  --font-alfa-slab-one: "Alfa Slab One";
+  --font-gotu: Gotu;
+  --font-source-code-pro: "Source Code Pro";
+  --font-inter: Inter;
+  --font-jockey-one: "Jockey One";
+  --font-rambla: Rambla;
+  --font-poppins: Poppins;
+  --android-overline: "Balsamiq Sans";
+
+  /* font sizes */
+  --android-overline-size: 10px;
+  --font-size-2xs: 13px;
+  --android-subtitle-2-size: 14px;
+  --font-size-sm: 16px;
+  --font-size-base: 18px;
+  --font-size-lg: 20px;
+  --font-size-xl: 24px;
+  --font-size-2xl: 30px;
+  --android-h4-size: 34px;
+  --font-size-4xl: 36px;
+  --font-size-5xl: 40px;
+  --font-size-6xl: 48px;
+  --font-size-7xl: 64px;
+
+  /* Colors */
+  --color-gold: #ffde71;
+  --color-black: #000;
+  --color-fuchsia: #a702e1;
+  --color-tan-100: #ffe99b;
+  --white: #fff;
+  --color-gray-100: #f8f0f0;
+  --color-gray-200: #d9d9d9;
+  --color-gray-300: #8f8989;
+  --gray-100: #666;
+  --black: #1a1a1a;
+  --color-gray-600: #0b0000;
+  --color-gray-700: rgba(217, 217, 217, 0);
+  --color-red: #ff0c0c;
+  --color-purple: #b73cbf;
+
+  /* Gaps */
+  --gap-0: 0px;
+  --gap-sm: 4px;
+  --gap-md: 15px;
+  --gap-lg: 16px;
+  --gap-xl: 17px;
+
+  /* Paddings */
+  --padding-xs: 10px;
+  --padding-sm: 12px;
+  --padding-md: 16px;
+  --padding-lg: 20px;
+
+  /* border radiuses */
+  --br-xs: 4px;
+  --br-sm: 10px;
+  --br-md: 25px;
+  --br-lg: 30px;
+  --br-xl: 33px;
+}

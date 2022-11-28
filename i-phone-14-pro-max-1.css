@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.tzi-div10 {
+  position: absolute;
+  top: 4px;
+  left: -19px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 201px;
+  height: 87px;
+}
+.tattoo-machine-icon1 {
+  position: absolute;
+  top: 11px;
+  left: 143px;
+  width: 78px;
+  height: 55px;
+  overflow: hidden;
+}
+.iphone-14-pro-max-1 {
+  position: relative;
+  background-color: var(--color-tan-100);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-7xl);
+  color: var(--color-black);
+  font-family: var(--font-gotu);
+}

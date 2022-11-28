@@ -1,0 +1,122 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.slate-texture-copy-11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1109px;
+  object-fit: cover;
+}
+.rectangle-icon,
+.rectangle-icon1 {
+  position: absolute;
+  top: 409px;
+  left: 108px;
+  width: 560px;
+  height: 157px;
+}
+.rectangle-icon1 {
+  top: 247px;
+  left: 103px;
+  height: 59px;
+}
+.examples-of-piece-by-name,
+.explain-what-you-want-in-a-few {
+  position: absolute;
+  top: 325px;
+  left: 103px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 545px;
+  height: 117px;
+}
+.examples-of-piece-by-name {
+  top: 204px;
+  left: 114px;
+  width: 330px;
+  height: 37px;
+}
+.line-div,
+.line-div1 {
+  position: absolute;
+  top: 423.5px;
+  left: 122.5px;
+  border-right: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 3px;
+  height: 36px;
+}
+.line-div1 {
+  top: 258.5px;
+  left: 118.5px;
+}
+.frame-icon {
+  position: absolute;
+  top: 210px;
+  left: 702px;
+  border-radius: var(--br-xl);
+  width: 394px;
+  height: 442px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.contact-tommy-div {
+  position: absolute;
+  top: 23px;
+  left: 256px;
+  font-size: var(--font-size-7xl);
+  line-height: 24px;
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 688px;
+  height: 206px;
+}
+.sign-up-div {
+  position: absolute;
+  margin: 0 !important;
+  top: 18px;
+  left: 156px;
+  display: inline-block;
+  z-index: 0;
+}
+.sign-up-button {
+  position: absolute;
+  top: 679px;
+  left: 391px;
+  background-color: var(--color-fuchsia);
+  border: 7px solid var(--color-black);
+  box-sizing: border-box;
+  width: 418px;
+  height: 92px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-lg) 69px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-alfa-slab-one);
+}
+.contact-div {
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gold);
+  border: 5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1218px;
+  height: 808px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-fuchsia);
+  font-family: var(--font-gotu);
+}

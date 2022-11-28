@@ -1,0 +1,353 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.slate-texture-copy-3,
+.slate-texture-copy-6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1536px;
+  height: 1108px;
+  object-fit: cover;
+}
+.slate-texture-copy-3 {
+  top: 1037.5px;
+  left: -31px;
+  width: 1440px;
+  height: 1024px;
+}
+.vector-icon12 {
+  position: relative;
+  width: 44px;
+  height: 44px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.abstract-div14,
+.frame-div74 {
+  display: flex;
+  align-items: center;
+}
+.abstract-div14 {
+  position: relative;
+  line-height: 16px;
+  justify-content: center;
+  width: 74px;
+}
+.frame-div74 {
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.vector-icon13 {
+  position: relative;
+  width: 44.06px;
+  height: 44.06px;
+  flex-shrink: 0;
+}
+.japanese-div4 {
+  position: relative;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+}
+.game-iconsportrait4 {
+  position: relative;
+  width: 47px;
+  height: 47px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.portrait-div4,
+.stick-n-poke4 {
+  position: relative;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 69px;
+}
+.stick-n-poke4 {
+  width: 110px;
+}
+.frame-div78 {
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+  color: var(--color-fuchsia);
+}
+.frame-div78,
+.frame-div79,
+.tribal-div4 {
+  display: flex;
+  align-items: center;
+}
+.tribal-div4 {
+  position: relative;
+  line-height: 16px;
+  justify-content: center;
+  width: 53px;
+}
+.frame-div79 {
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.biarrow-through-heart-icon4 {
+  position: relative;
+  width: 47px;
+  height: 47px;
+  flex-shrink: 0;
+  overflow: hidden;
+  cursor: pointer;
+}
+.geometric-div4,
+.traditional-div8 {
+  position: relative;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 97px;
+}
+.geometric-div4 {
+  width: 113px;
+}
+.component-1-div4 {
+  position: absolute;
+  top: calc(50% - 40.5px);
+  left: calc(50% - 723px);
+  width: 1520px;
+  height: 84px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-md);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: space-between;
+}
+.frame-div72,
+.frame-div73 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1444px;
+  height: 87px;
+  overflow-x: auto;
+}
+.frame-div72 {
+  top: 115px;
+  left: -4px;
+}
+.tiiimanfdsgsdg-div16 {
+  position: absolute;
+  top: 375px;
+  left: 11px;
+  font-size: var(--font-size-2xs);
+  line-height: 16px;
+  color: var(--color-red);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 176px;
+  height: 50px;
+}
+.ronny-real-p3 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.ronny-real-div3 {
+  position: absolute;
+  top: 259px;
+  left: 22px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+}
+.atlanta-ga-div3,
+.forever-tattoo-div3,
+.realism-div9 {
+  position: absolute;
+  top: 292px;
+  left: 22px;
+  display: inline-block;
+}
+.atlanta-ga-div3,
+.forever-tattoo-div3 {
+  top: 342px;
+}
+.forever-tattoo-div3 {
+  top: 317px;
+}
+.frame-div85 {
+  position: relative;
+  border-radius: var(--br-lg);
+  width: 425px;
+  height: 375px;
+  flex-shrink: 0;
+  overflow: hidden;
+  background-image: url(./public/frame-251@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.component-7-div3,
+.component-7-div4,
+.component-7-div5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-7-div4,
+.component-7-div5 {
+  top: 1px;
+  left: 481px;
+}
+.component-7-div5 {
+  left: 963px;
+}
+.frame-div88 {
+  position: relative;
+  border-radius: var(--br-lg);
+  width: 425px;
+  height: 375px;
+  flex-shrink: 0;
+  overflow: hidden;
+  background-image: url(./public/frame-2519@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.component-7-div6,
+.component-7-div7,
+.component-7-div8 {
+  position: absolute;
+  top: 410px;
+  left: 5px;
+  border-radius: var(--br-xl);
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-7-div7,
+.component-7-div8 {
+  left: 482px;
+}
+.component-7-div8 {
+  left: 974px;
+}
+.frame-div84 {
+  position: absolute;
+  top: 269px;
+  left: 26px;
+  width: 1399px;
+  height: 755px;
+  overflow-y: auto;
+  font-size: var(--font-size-base);
+  color: var(--white);
+}
+.line-div17,
+.line-div18 {
+  position: absolute;
+  top: 87px;
+  left: -13px;
+  border-top: 16px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1520px;
+  height: 16px;
+}
+.line-div18 {
+  top: 200px;
+  left: -36px;
+  width: 1706px;
+}
+.rectangle-div8 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-700);
+}
+.vector-icon14 {
+  position: absolute;
+  height: 63.74%;
+  width: 67.58%;
+  top: 18.52%;
+  right: 14.77%;
+  bottom: 17.74%;
+  left: 17.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component-8-div2 {
+  position: absolute;
+  top: 22px;
+  left: 1171px;
+  width: 51px;
+  height: 54px;
+  overflow: hidden;
+}
+.ellipse-icon4,
+.tzi-div7 {
+  position: absolute;
+  cursor: pointer;
+}
+.ellipse-icon4 {
+  top: 23px;
+  left: 1363px;
+  width: 56px;
+  height: 56px;
+  object-fit: cover;
+}
+.tzi-div7 {
+  top: 6px;
+  left: -16px;
+  font-size: var(--font-size-7xl);
+  line-height: 24px;
+  font-family: var(--font-gotu);
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 201px;
+  height: 89px;
+}
+.realism-div7 {
+  position: relative;
+  background-color: var(--color-gold);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-600);
+  font-family: var(--font-alfa-slab-one);
+}

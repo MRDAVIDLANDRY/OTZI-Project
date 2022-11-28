@@ -1,0 +1,421 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.slate-texture-copy-12 {
+  position: absolute;
+  top: -17px;
+  left: 0;
+  width: 1440px;
+  height: 1094px;
+  object-fit: cover;
+}
+.frame-div1 {
+  position: absolute;
+  top: 119px;
+  left: 885px;
+  width: 109px;
+  height: 79px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.tiiimanfdsgsdg-div {
+  position: absolute;
+  top: 375px;
+  left: 11px;
+  font-size: var(--font-size-2xs);
+  line-height: 16px;
+  color: var(--color-red);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 176px;
+  height: 50px;
+}
+.tommy-traditional-p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.tommy-traditional-div {
+  position: absolute;
+  top: 260px;
+  left: 22px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+}
+.dallas-tx-div,
+.rr-tattoo-div,
+.traditional-div {
+  position: absolute;
+  top: 292px;
+  left: 22px;
+  display: inline-block;
+}
+.dallas-tx-div,
+.rr-tattoo-div {
+  top: 342px;
+}
+.rr-tattoo-div {
+  top: 317px;
+}
+.frame-div3 {
+  position: relative;
+  border-radius: var(--br-lg);
+  width: 425px;
+  height: 375px;
+  flex-shrink: 0;
+  overflow: hidden;
+  background-image: url(./public/frame-25@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.component-6-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ronny-real-div {
+  position: absolute;
+  top: 259px;
+  left: 22px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+}
+.frame-div4 {
+  position: relative;
+  border-radius: var(--br-lg);
+  width: 425px;
+  height: 375px;
+  flex-shrink: 0;
+  overflow: hidden;
+  background-image: url(./public/frame-251@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.component-7-div,
+.component-8-div {
+  position: absolute;
+  top: 0;
+  left: 477px;
+  border-radius: var(--br-xl);
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-8-div {
+  left: 954px;
+}
+.annie-abstract-div {
+  position: absolute;
+  top: 259px;
+  left: 11px;
+  font-size: var(--font-size-xl);
+  white-space: pre-wrap;
+  display: inline-block;
+}
+.abstract-div,
+.denver-co-div,
+.grey-wolf-tattoo {
+  position: absolute;
+  top: 289px;
+  left: 11px;
+  display: inline-block;
+}
+.denver-co-div,
+.grey-wolf-tattoo {
+  top: 339px;
+}
+.grey-wolf-tattoo {
+  top: 314px;
+}
+.frame-div6 {
+  position: relative;
+  border-radius: var(--br-lg);
+  width: 425px;
+  height: 375px;
+  flex-shrink: 0;
+  overflow: hidden;
+  background-image: url(./public/frame-253@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.component-9-div {
+  position: absolute;
+  top: 409px;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--white);
+  height: 375px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-div7 {
+  position: relative;
+  border-radius: var(--br-lg);
+  width: 425px;
+  height: 375px;
+  flex-shrink: 0;
+  overflow: hidden;
+  background-image: url(./public/frame-254@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.component-7-div1,
+.component-9-div1 {
+  position: absolute;
+  top: 409px;
+  left: 954px;
+  border-radius: var(--br-xl);
+  background-color: var(--white);
+  height: 339px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-9-div1 {
+  left: 477px;
+  height: 358px;
+}
+.frame-div2 {
+  position: absolute;
+  width: calc(100% - 47px);
+  top: 276px;
+  right: 21px;
+  left: 26px;
+  height: 748px;
+  overflow-y: auto;
+}
+.slate-texture-copy-4 {
+  position: absolute;
+  top: -511px;
+  left: -792.5px;
+  width: 1750px;
+  height: 1396px;
+}
+.vector-icon {
+  position: relative;
+  width: 44px;
+  height: 44px;
+  flex-shrink: 0;
+}
+.abstract-div2,
+.frame-div11 {
+  display: flex;
+  align-items: center;
+}
+.abstract-div2 {
+  position: relative;
+  line-height: 16px;
+  justify-content: center;
+  width: 74px;
+}
+.frame-div11 {
+  overflow-x: auto;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  cursor: pointer;
+}
+.vector-icon1 {
+  position: relative;
+  width: 44.06px;
+  height: 44.06px;
+  flex-shrink: 0;
+}
+.frame-div12,
+.japanese-div {
+  display: flex;
+  align-items: center;
+}
+.japanese-div {
+  position: relative;
+  line-height: 16px;
+  justify-content: center;
+  width: 80px;
+}
+.frame-div12 {
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.game-iconsportrait {
+  position: relative;
+  width: 47px;
+  height: 47px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.portrait-div,
+.stick-n-poke {
+  position: relative;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 69px;
+}
+.stick-n-poke {
+  width: 110px;
+}
+.frame-div15 {
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+  cursor: pointer;
+}
+.frame-div15,
+.frame-div16,
+.tribal-div {
+  display: flex;
+  align-items: center;
+}
+.tribal-div {
+  position: relative;
+  line-height: 16px;
+  justify-content: center;
+  width: 53px;
+}
+.frame-div16 {
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.geometric-div,
+.traditional-div2 {
+  position: relative;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 97px;
+}
+.geometric-div {
+  width: 113px;
+}
+.component-1-div {
+  position: absolute;
+  top: calc(50% - 40.5px);
+  left: calc(50% - 723px);
+  width: 1520px;
+  height: 84px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-md);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: space-between;
+}
+.frame-div10,
+.frame-div9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1444px;
+  height: 87px;
+  overflow-x: auto;
+}
+.frame-div9 {
+  top: 119px;
+  left: -4px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-600);
+}
+.ellipse-icon {
+  position: absolute;
+  top: 23px;
+  left: 1363px;
+  width: 56px;
+  height: 56px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.rectangle-div1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-700);
+}
+.component-5-div,
+.vector-icon2 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon2 {
+  height: 63.74%;
+  width: 67.58%;
+  top: 18.52%;
+  right: 14.77%;
+  bottom: 17.74%;
+  left: 17.65%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.component-5-div {
+  top: 22px;
+  left: 1171px;
+  width: 51px;
+  height: 54px;
+}
+.line-div4,
+.line-div5 {
+  position: absolute;
+  top: 200px;
+  left: calc(50% - 756px);
+  border-top: 16px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1706px;
+  height: 16px;
+}
+.line-div5 {
+  top: 91px;
+  left: calc(50% - 728px);
+  width: 1510px;
+}
+.tzi-div {
+  position: absolute;
+  top: 10px;
+  left: -18px;
+  font-size: var(--font-size-7xl);
+  line-height: 24px;
+  font-family: var(--font-gotu);
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 201px;
+  height: 89px;
+}
+.home-page-div {
+  position: relative;
+  background-color: var(--color-gold);
+  width: 100%;
+  height: 1024px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--white);
+  font-family: var(--font-alfa-slab-one);
+}
